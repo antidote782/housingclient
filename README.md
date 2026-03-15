@@ -41,7 +41,10 @@ https://discord.gg/Zu43A6UUju
 - **Item Stealer** - Copy items from players, armor stands, and item frames (keybind only)
 - **NBT Logger** - Log items with ItemModel NBT from other players
 - **Packet Multiplier** - Sends GUI click packets multiple times
+- **Player Crasher** - Crashes 1.21 players
 - **Server Matcher** - Match housing server IDs
+- **Sign Fill** - Auto-fills signs with configured text on placement
+- **Wearable Items** - Allows placing any item/block in your armor slots
 
 ### Quality of Life
 - **Anti Void Lag** - Prevents lag when void holes are filled/broken
@@ -50,6 +53,7 @@ https://discord.gg/Zu43A6UUju
 - **Zoom** - Zoom in view (Hold Key)
 
 ### Miscellaneous
+- **Auto Beg** - Automatically beg for ranks
 - **Blink** - Completely freezes all packets until disabled
 - **Creative Flight / Flight Speed** - Creative-mode flight with double-tap space
 - **FastBreak** - Break blocks faster
@@ -58,6 +62,7 @@ https://discord.gg/Zu43A6UUju
 - **Left Autoclicker** - Advanced humanized autoclicker
 - **NoDebuff** - Cancel negative potion effects
 - **Nuker** - Breaks blocks around you
+- **Rainbow Armor** - Smooth rainbow leather armor
 - **Reach** - Modify attack and interaction reach
 - **Speed** - Move faster
 
